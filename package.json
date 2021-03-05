@@ -1,5 +1,5 @@
 {
-  "name": "calculator",
+  "name": "TicTacToe",
   "version": "0.1.0",
   "license": "MIT",
   "homepage": "http://ahfarmer.github.io/calculator",
@@ -7,7 +7,7 @@
     "chai": "^4.2.0",
     "gh-pages": "^2.0.1",
     "prettier": "^1.17.1",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^4.0.3"
   },
   "dependencies": {
     "big.js": "^5.2.2",
